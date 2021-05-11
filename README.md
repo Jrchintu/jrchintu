@@ -1,6 +1,7 @@
 ### HOLA 👋 
 
-![jrchintu github stats](https://github-readme-stats.vercel.app/api?username=jrchintu&show_icons=true&title_color=56ec99&text_color=ececec&icon_color=00ffba&bg_color=2c2a2a)
+![jrchintu github stats](https://github-stats-alpha.vercel.app/api/?username=jrchintu&cc=FFFFFF&ic=DF7431&bc=FFFFFF&tc=000000)
 
 ### Quick sites
 - https://jrchintu.github.io/logcatTrimmer/
+
