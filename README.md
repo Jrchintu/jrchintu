@@ -4,4 +4,5 @@
 
 ### Quick sites
 - https://jrchintu.github.io/logcatTrimmer/
+- https://removeduplicateonline.com/
 
